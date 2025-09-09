@@ -3,3 +3,4 @@ __pycache__/
 *$py.class
 Lib/
 Scripts/
+pyvenv.cfg
